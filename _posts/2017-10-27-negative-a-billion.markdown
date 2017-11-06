@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Negative a Billion"
 date:   2017-10-27 07:00:00 -0600
 categories: feedback
