@@ -25,8 +25,8 @@ github_username:  meometer
 
 # Build settings
 markdown: kramdown
-# theme: minima
-theme: jekyll-swiss
+theme: minima
+# theme: jekyll-swiss
 plugins:
   - jekyll-feed
 
