@@ -18,8 +18,8 @@ title: Tiles
 email: geoffrey@meometer.com
 description: >- # this means to ignore newlines until "baseurl:"
   @geoffrey: Control time.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://meometer.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://meometer.com" # the subpath of your site, e.g. /blog
+url: "https://meometer.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: meometer
 github_username:  meometer
 
