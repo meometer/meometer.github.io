@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Negative a Billion"
+summary: "In which we admonish our pathetic release like a [@geoffrey: comedy goes here]."
 date:   2017-10-27 07:00:00 -0600
-categories: feedback
+categories: feedback release nps
 ---
+
 You know those emails you get which ask only one thing: "On a scale of 1 to 10, how likely are you to recommend _whatever_..."
 
 Answers to this question produce a metric called a [Net Promoter Score](https://www.netpromoter.com/know/), a measure of the likelihood a User will talk about your amazing product. It’s incredibly useful, higher is better and you can get negative scores.
