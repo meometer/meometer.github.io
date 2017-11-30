@@ -1,4 +1,404 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-19T09:14:29-07:00</updated><id>http://localhost:4000/</id><title type="html">meometer’s blog | Tiles</title><subtitle>What the heck. Let's invent time travel.</subtitle><entry><title type="html">Negative a Billion</title><link href="http://localhost:4000/feedback/release/nps/2017/10/27/negative-a-billion.html" rel="alternate" type="text/html" title="Negative a Billion" /><published>2017-10-27T07:00:00-06:00</published><updated>2017-10-27T07:00:00-06:00</updated><id>http://localhost:4000/feedback/release/nps/2017/10/27/negative-a-billion</id><content type="html" xml:base="http://localhost:4000/feedback/release/nps/2017/10/27/negative-a-billion.html">&lt;p&gt;You know those emails you get which ask only one thing: “On a scale of 1 to 10, how likely are you to recommend &lt;em&gt;whatever&lt;/em&gt;…”&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-30T08:47:10-07:00</updated><id>http://localhost:4000/</id><title type="html">meometer’s blog | Tiles</title><subtitle>What the heck. Let's invent time travel.</subtitle><entry><title type="html">Leutentent</title><link href="http://localhost:4000/self-awareness/technology/hci/2017/11/27/leutentent.html" rel="alternate" type="text/html" title="Leutentent" /><published>2017-11-27T03:04:04-07:00</published><updated>2017-11-27T03:04:04-07:00</updated><id>http://localhost:4000/self-awareness/technology/hci/2017/11/27/leutentent</id><content type="html" xml:base="http://localhost:4000/self-awareness/technology/hci/2017/11/27/leutentent.html">&lt;!-- calls to action --&gt;
+
+&lt;!-- local --&gt;
+
+&lt;!-- external --&gt;
+
+&lt;!-- images --&gt;
+
+&lt;p&gt;For the last 3 months I lived without internet like a feral beast.&lt;/p&gt;
+
+&lt;p&gt;I got wired over the weekend, fencing in my corner of the West.&lt;/p&gt;
+
+&lt;p&gt;Will this be the last time I’m ever not wired?&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;dances-with-http&quot;&gt;Dances With HTTP&lt;/h2&gt;
+
+&lt;p&gt;Leutenent Dunbar, in &lt;a href=&quot;http://www.imdb.com/title/tt0099348/?ref_=nv_sr_1&quot;&gt;Dances With Wolves&lt;/a&gt;, requests an assignment out West to experience the dying phenomenon of wilderness.&lt;/p&gt;
+
+&lt;p&gt;In the same way, I don’t carry a phone so I can experience the dying phenomenon of human wilderness.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/image-dances-with-wolves-001.png&quot; alt=&quot;Dances With Wolves&quot; title=&quot;Dances With Wolves 001&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This decade hit an inflection point because to the best of my knowledge I am the only remaining human over 12 years old without a phone.&lt;/p&gt;
+
+&lt;p&gt;Sometime around puberty every young &lt;em&gt;homo sapien sapien&lt;/em&gt; gets handed a phone by their parents and they evolve into &lt;em&gt;homo sapien wired&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;no-phones&quot;&gt;No Phones&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/image-edna-no-capes.jpg&quot; alt=&quot;Edna&quot; title=&quot;Edna&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Save for two phones purchased for development, I lived without mobiles my entire life.&lt;/p&gt;
+
+&lt;p&gt;On purpose.&lt;/p&gt;
+
+&lt;p&gt;Don’t misunderstand me, they’re amazing! A supercomputer in my pocket with permanent access to all humanity’s collective knowledge?! (And disfunction.)&lt;/p&gt;
+
+&lt;p&gt;They’re not for me because far too easily they knock me off balance.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;balance&quot;&gt;Balance&lt;/h2&gt;
+
+&lt;p&gt;If, like me, you fall under the moniker &lt;em&gt;homo sapien sapien&lt;/em&gt; (or &lt;em&gt;homo sapien wired&lt;/em&gt;) sometimes balance can be tough.&lt;/p&gt;
+
+&lt;p&gt;I get out of balance even now at my geologic age when I should be as wise and steady as a Galapagos tortoise.&lt;/p&gt;
+
+&lt;p&gt;A simple recipe for disaster which I can whip up on a moments notice consists of: 1) infinite curiousity (ding!), 2) infinite access to infinite information (oh, shiny, shiny internet!), and 3) non-infinite self awareness and self control (guilty!).&lt;/p&gt;
+
+&lt;p&gt;With a phone, I live permanently inside that disaster.&lt;/p&gt;
+
+&lt;p&gt;Even now, just getting back online after a long break, I fiercely have to keep myself in check.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;My social media diet consists only of twitter. Makes sense, it owns the tightest constraints: &lt;em&gt;get your idea across in 140/280 chars&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Beyond how it makes people get to the point, I like how well I can track specific subjects I enjoy like  &lt;em&gt;technology&lt;/em&gt;, &lt;em&gt;art&lt;/em&gt;, &lt;em&gt;astronomy&lt;/em&gt;, and, ugh, &lt;em&gt;politics&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Politics. My lifelong fascination with this bloody nonsense exists due to my curiousity around how our species works for and against itself.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Over the weekend, my first wired weekend in forever, I checked twitter.&lt;/p&gt;
+
+&lt;p&gt;A bunch.&lt;/p&gt;
+
+&lt;p&gt;A handful of political dramas on which I keep my eye grew and shifted and escalated.&lt;/p&gt;
+
+&lt;p&gt;Every 110 minutes, &lt;em&gt;Anything new?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I already track potentially wasted time with a &lt;em&gt;Project&lt;/em&gt; in meometer called &lt;code class=&quot;highlighter-rouge&quot;&gt;negative&lt;/code&gt; (aka Negative Habits) and, in this case, an &lt;em&gt;Intent&lt;/em&gt; labeled &lt;code class=&quot;highlighter-rouge&quot;&gt;browse twitter politics&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;By defining this &lt;em&gt;Intent&lt;/em&gt; I was/am conciously forced to decide: Is this — &lt;code class=&quot;highlighter-rouge&quot;&gt;browsing twitter politics&lt;/code&gt;, something which lives light-years beyond my &lt;a href=&quot;http://www.answers.com/Q/What_is_a_'sphere_of_influence'&quot;&gt;sphere of influence&lt;/a&gt; — a good use of my time?&lt;/p&gt;
+
+&lt;p&gt;Sometimes it is. Sometimes it is the optimal use of my time.&lt;/p&gt;
+
+&lt;p&gt;I read something which dispels a growing story in my mind, or a joke which releases some anger.&lt;/p&gt;
+
+&lt;p&gt;Sometimes I stumble across an answer to a coding issue I have and shave 30 hours of frustration off my life.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is a limit to the time assigned you, and if you don’t use it to free yourself it will be gone and never return.
+&lt;br /&gt;‐ Marcus Aurelius&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;These twitter checks happened between studying technology, code commits, prose commits, playing guitar, and playing with the critter.&lt;/p&gt;
+
+&lt;p&gt;Which &lt;em&gt;Actions&lt;/em&gt;, do you think, make me more proud: 1) Screwing off on twitter to scratch some knuckleheaded itch or 2) the moments when I grew and created and played?&lt;/p&gt;
+
+&lt;p&gt;My twitter checks have grown both less frequent and shorter because I started tracking in meometer.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;paradox-or-irony&quot;&gt;Paradox or Irony?&lt;/h2&gt;
+
+&lt;p&gt;Funny thing about my little human wilderness idear: I need fences, and I know I do.&lt;/p&gt;
+
+&lt;p&gt;I need a reminder life is finite, that I live in a &lt;em&gt;timebox&lt;/em&gt; called a lifetime, that I can never get a day back.&lt;/p&gt;
+
+&lt;p&gt;I need a constant reminder because I can so easily get lost in time.&lt;/p&gt;
+
+&lt;p&gt;I need &lt;em&gt;The Line&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Oh, yeah, good news! &lt;em&gt;The Line&lt;/em&gt; is back.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Before our eyes, the wilderness and the wilderness of humanity recedes.</summary></entry><entry><title type="html">Enemy Mind</title><link href="http://localhost:4000/problem/bias/self-awareness/solution/cognitive-bias/2017/11/19/enemy-mind.html" rel="alternate" type="text/html" title="Enemy Mind" /><published>2017-11-19T15:16:16-07:00</published><updated>2017-11-19T15:16:16-07:00</updated><id>http://localhost:4000/problem/bias/self-awareness/solution/cognitive-bias/2017/11/19/enemy-mind</id><content type="html" xml:base="http://localhost:4000/problem/bias/self-awareness/solution/cognitive-bias/2017/11/19/enemy-mind.html">&lt;p&gt;I concluded my mind is my enemy, and, because of the bias generated in my grey matter, your mind is your enemy.&lt;/p&gt;
+
+&lt;p&gt;I know this sounds harsh, so let me clarify.&lt;/p&gt;
+
+&lt;p&gt;I don’t mean it’s out to kill you, &lt;strong&gt;I mean it’s out to trick you at every turn&lt;/strong&gt;, and because of our minds’ stealth, we miss the machinations.&lt;/p&gt;
+
+&lt;p&gt;Don’t believe me?&lt;/p&gt;
+
+&lt;p&gt;Let’s walk through a little thing called &lt;strong&gt;cognitive bias&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;cognitive-bias&quot;&gt;Cognitive Bias&lt;/h2&gt;
+&lt;p&gt;The super duper offical definition:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;””&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;source&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Translation: &lt;em&gt;Your mind is your enemy&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dozens. Hundreds. Thousands. More? of these little bastards live in our minds.&lt;/p&gt;
+
+&lt;p&gt;Squatters who lie to us!&lt;/p&gt;
+
+&lt;p&gt;Like bloatware on a 2006 HP Laptop or bloatware on a 2017 HP Laptop, they come preinstalled whether we want ‘em or not.&lt;/p&gt;
+
+&lt;p&gt;And we don’t.&lt;/p&gt;
+
+&lt;p&gt;Each bias is like a scared, crotchety, old switchboard operator with an agenda: they have a belief and want to promote it to us like an aggressive missionary.&lt;/p&gt;
+
+&lt;p&gt;Biases work like this:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;they deliberately disguise information (&lt;a href=&quot;&quot;&gt;example 01&lt;/a&gt;, &lt;a href=&quot;&quot;&gt;example 02&lt;/a&gt;, &lt;a href=&quot;&quot;&gt;example 03&lt;/a&gt;, et. al.)&lt;/li&gt;
+  &lt;li&gt;they deliberately over-emphasize info aligning with it’s belief (hyperawareness, rationalization, people exploit this intentionally)&lt;/li&gt;
+  &lt;li&gt;and they fight like Terminators until dead&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We don’t want our minds full of uninvited liars.&lt;/p&gt;
+
+&lt;p&gt;Fewer biases means a more accurate view of everything. We become better&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;im-a-good-driver&quot;&gt;“I’m a Good Driver.”&lt;/h2&gt;
+&lt;p&gt;As meometer marches to profitability I work reception at a &lt;a href=&quot;https://learntodrivecolorado.com&quot;&gt;drive school&lt;/a&gt; in the Front Range. (When it’s quiet I automate every last task I can with Python which is ludicrously fun.)&lt;/p&gt;
+
+&lt;p&gt;People come in to take permit tests and drive tests.&lt;/p&gt;
+
+&lt;p&gt;When explaining what they need 3 out of 5 adults — not quite Trident gum numbers — say the exact same phrase.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;                    GEOFFREY THE RECEPTIONIST
+    Good afternoon. How can I help you?
+
+                    ADULT CUSTOMER
+    So I need to take a driver's test
+    because...{reason number 9}
+
+                    GEOFFREY THE RECEPTIONIST
+    Great. May I see your permi—
+
+                    ADULT CUSTOMER
+    I'm a good driver.
+
+                    GEOFFREY THE RECEPTIONIST
+    Brilliant. No need to test you then because
+    you know every last thing about automobiles,
+    automobile maintenance, traffic patterns,
+    handling in adverse weather conditions, and
+    have all 498 Colorado traffic statutes
+    memorized, correct?
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;(I never say that last bit.)&lt;/p&gt;
+
+&lt;p&gt;So, do I trust they’re a good driver? Of course not, because their opinion is driven by their mind.&lt;/p&gt;
+
+&lt;p&gt;Their lying, duplicitous mind. The biases exhibited:&lt;/p&gt;
+
+&lt;p&gt;I trust the Examiners with their external observations. (And their education.)&lt;/p&gt;
+
+&lt;p&gt;[ THIS IS THE THESIS: ]&lt;/p&gt;
+
+&lt;p&gt;It’s hard to get outside of one’s own way to get a critical view of actions in general let alone something so habituated as &lt;em&gt;driving&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;After more than 30 years of locked in habits (in my case), how the hell would I know if I’m a good driver? And what if my first and only instructor was completely bananas?&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;                    TERRIBLE INSTRUCTOR
+    You should try to jump your van on the
+    railroad tracks over by the prison. It's
+    even better on a motorcycle without a helmet.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Biases behave like organisms, defending themselves to the point of ignoring reality.&lt;/p&gt;
+
+&lt;p&gt;This happened in front of me three weeks ago:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;                    EXAMINER
+    You failed your test because you didn't
+    stop at the stop sign at 14th and Ford.
+
+                    DRIVER
+    I didn't see a stop sign!
+
+                    EXAMINER
+    Exactly.
+
+                    DRIVER
+    You're wrong. There was no stop sign!
+
+                    EXAMINER
+    I've driven this route 173 times.
+
+                    DRIVER
+    But, there's no stop sign!
+
+                    EXAMINER
+    I designed the route. It's my favorite, ever, in 31 years of doing this.
+
+                    DRIVER
+    This is bullshit! I'm a great driver!
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Guess how many people have said, “I’m not a very good driver.”&lt;/p&gt;
+
+&lt;p&gt;Exactly zero.&lt;/p&gt;
+
+&lt;p&gt;100% of people surveyed — or not surveyed because I have &lt;em&gt;never&lt;/em&gt; asked — believe they’re a good driver.&lt;/p&gt;
+
+&lt;p&gt;Why?&lt;/p&gt;
+
+&lt;p&gt;Because they listen to the whispers of their enemy.&lt;/p&gt;
+
+&lt;p&gt;Here’s the mathematical formula for their belief: &lt;em&gt;I am a good driver&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I don’t know who Csaba Cere is.
+I have never been to a car race.
+I do not change my own oil.
+I have never checked the pressure on my tires and have no idea what they’re at right now.
+I do not watch any F1, Kart, Rally, Motorcycle, or Nascar races.
+I have never had a subscription to Car &amp;amp; Driver or Road and Track.
+I don’t know there’s a channel on my tv called Speed.
+I do not know how many traffic laws exist.
+I have no idea how much torque is put to my back wheels.
+(Also, what’s torque, and why would I, a driver, care?)
+I have never driven a right handed car.
+Nor have I driven in a foreign land.&lt;/p&gt;
+
+&lt;p&gt;Therefore (or a formula in LaTeX)&lt;/p&gt;
+
+&lt;p&gt;What these folks really mean is: “I can adequately operate a handful of cars.” (No standards, no right-hand drives, nothing rear wheel drive and turbo, no busses, no semis, no motorcycles…)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;you-monster&quot;&gt;“You monster.”&lt;/h2&gt;
+&lt;p&gt;Every once in a while I make a startling claim and watch the horror in a Customer’s eyes.&lt;/p&gt;
+
+&lt;p&gt;A debate starts between Customer and Examiner where the professionally trained, educated expert tries to explain a concept only to have the ignorant (proper definition) Customer attempt to correct the expert who is inarguably right.&lt;/p&gt;
+
+&lt;p&gt;When the Customer needs backup for their completely wrong assumption they turn to me, the receptionist.&lt;/p&gt;
+
+&lt;p&gt;I say, “I’m the worst driver in here,” and watch their circuits fuse because this is the first time they have &lt;strong&gt;ever&lt;/strong&gt; heard this sentence. It does not compute.&lt;/p&gt;
+
+&lt;p&gt;After the Customer’s head angle straightens out, I follow up with, “When it comes to drive testing I trust the professionally trained expert’s opinion and knowledge on what the State says is the right way to do things.”&lt;/p&gt;
+
+&lt;p&gt;Sometimes my comments recalibrate their minds and helps them recognize they don’t even know the criteria they’re getting tested on, let alone the DMV’s position on what’s correct.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;false-positives&quot;&gt;False Positives&lt;/h2&gt;
+
+&lt;p&gt;Our biases, like 5 person sub-reddits, latch onto anything and everything which backs their beliefs while ignoring and dispelling anything which disproves.&lt;/p&gt;
+
+&lt;p&gt;One of these methods for distorting truth is the &lt;em&gt;false positive&lt;/em&gt;, taking credit for something unrelated.&lt;/p&gt;
+
+&lt;p&gt;Do something wrong or do something unrelated, see a good result an intentionally [mis-correlate/causate]&lt;/p&gt;
+
+&lt;p&gt;This happens in any domain: poker, investing, relationships, life…&lt;/p&gt;
+
+&lt;p&gt;If your internal dialogue starts with, “I finally got this figured out!”, I’ll bet you’re guided by a bias. (And about to learn a life lesson.)&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;thats-big&quot;&gt;“That’s Big.”&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;image: Steve Martin and Audrey II&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We only talked about a handful of types. Here’s a list of known, defined biases. Here’s another.&lt;/p&gt;
+
+&lt;p&gt;Look at it!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;That’s big.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;These things pop up like exoplanets both in definition and in our minds.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;exploitability&quot;&gt;Exploitability&lt;/h2&gt;
+
+&lt;p&gt;With multiple ways to stroke each bias — keywords, arguments, emotional ploys, and more — organizations and individuals use &lt;em&gt;Behavioral Science&lt;/em&gt; to drive your behavior.&lt;/p&gt;
+
+&lt;p&gt;Around formally since &lt;em&gt;rhetoric&lt;/em&gt; in ancient Greece, nowadays &lt;em&gt;Behavioral Science&lt;/em&gt; is supercharged with AI and infinite flops and &lt;a href=&quot;&quot;&gt;psychographic maps&lt;/a&gt; and better-than-free, ubiquitous delivery directly to our faces.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;dfence&quot;&gt;D:fence:&lt;/h2&gt;
+
+&lt;p&gt;One defense against this, against getting hijacked, is having fewer and weaker biases.&lt;/p&gt;
+
+&lt;p&gt;I use meometer to 1) study them via &lt;em&gt;Nudges&lt;/em&gt; and 2) catalog them in the real world via a &lt;em&gt;Project&lt;/em&gt; called &lt;em&gt;biascatcher&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;These practices help distance myself, allowing for clearer thinking and a chance to dispel them in myself.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cheers,
+Geoffrey&lt;/p&gt;
+
+&lt;p&gt;P.S. I’m a good driver.&lt;/p&gt;</content><author><name></name></author><summary type="html">Getting out of one's own way to get a critical view of actions in general is pert near impossible, let alone with something so habituated as driving.</summary></entry><entry><title type="html">Negative a Billion</title><link href="http://localhost:4000/feedback/release/nps/2017/10/27/negative-a-billion.html" rel="alternate" type="text/html" title="Negative a Billion" /><published>2017-10-27T07:00:00-06:00</published><updated>2017-10-27T07:00:00-06:00</updated><id>http://localhost:4000/feedback/release/nps/2017/10/27/negative-a-billion</id><content type="html" xml:base="http://localhost:4000/feedback/release/nps/2017/10/27/negative-a-billion.html">&lt;p&gt;You know those emails you get which ask only one thing: “On a scale of 1 to 10, how likely are you to recommend &lt;em&gt;whatever&lt;/em&gt;…”&lt;/p&gt;
 
 &lt;p&gt;Answers to this question produce a metric called a &lt;a href=&quot;https://www.netpromoter.com/know/&quot;&gt;Net Promoter Score&lt;/a&gt;, a measure of the likelihood a User will talk about your amazing product. It’s incredibly useful, higher is better and you can get negative scores.&lt;/p&gt;
 
@@ -63,4 +463,21 @@ Geoffrey&lt;/p&gt;
 
 &lt;p&gt;*I’ll tell the story some day.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Hillsborough_Bay,_Carriacou.jpeg#/media/File:Hillsborough_Bay,_Carriacou.jpeg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hillsborough_Bay%2C_Carriacou.jpeg/1200px-Hillsborough_Bay%2C_Carriacou.jpeg&quot; alt=&quot;Hillsborough Bay, Carriacou.jpeg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;Hillsborough Bay, Carriacou - By &lt;a href=&quot;//commons.wikimedia.org/w/index.php?title=User:Deeferdiving&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new&quot; title=&quot;User:Deeferdiving (page does not exist)&quot;&gt;Deeferdiving&lt;/a&gt; - &lt;span class=&quot;int-own-work&quot; lang=&quot;en&quot;&gt;Own work&lt;/span&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0&quot; title=&quot;Creative Commons Attribution-Share Alike 4.0&quot;&gt;CC BY-SA 4.0&lt;/a&gt;, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=46108061&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">You know those emails you get which ask only one thing: “On a scale of 1 to 10, how likely are you to recommend whatever…”</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Hillsborough_Bay,_Carriacou.jpeg#/media/File:Hillsborough_Bay,_Carriacou.jpeg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hillsborough_Bay%2C_Carriacou.jpeg/1200px-Hillsborough_Bay%2C_Carriacou.jpeg&quot; alt=&quot;Hillsborough Bay, Carriacou.jpeg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;Hillsborough Bay, Carriacou - By &lt;a href=&quot;//commons.wikimedia.org/w/index.php?title=User:Deeferdiving&amp;amp;action=edit&amp;amp;redlink=1&quot; class=&quot;new&quot; title=&quot;User:Deeferdiving (page does not exist)&quot;&gt;Deeferdiving&lt;/a&gt; - &lt;span class=&quot;int-own-work&quot; lang=&quot;en&quot;&gt;Own work&lt;/span&gt;, &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0&quot; title=&quot;Creative Commons Attribution-Share Alike 4.0&quot;&gt;CC BY-SA 4.0&lt;/a&gt;, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=46108061&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+
+excerpt_separator: &lt;!--more--&gt;
+
+
+Excerpt
+&lt;!--more--&gt;
+
+excerpt: &quot;In which we admonish our pathetic release like a [@geoffrey: comedy goes here.]&quot;
+
+
+Hey now.
+
+Out-of-excerpt
+&lt;/p&gt;</content><author><name></name></author><summary type="html">In which we admonish our pathetic release like a [@geoffrey: comedy goes here].</summary></entry></feed>

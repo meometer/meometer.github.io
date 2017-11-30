@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Negative a Billion"
-summary: "In which we admonish our pathetic release like a [@geoffrey: comedy goes here]."
 date:   2017-10-27 07:00:00 -0600
 categories: feedback release nps
+excerpt: "In which we admonish our pathetic release like a [@geoffrey: comedy goes here]."
 ---
 
 You know those emails you get which ask only one thing: "On a scale of 1 to 10, how likely are you to recommend _whatever_..."
@@ -67,3 +67,21 @@ Geoffrey
 *I'll tell the story some day.
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Hillsborough_Bay,_Carriacou.jpeg#/media/File:Hillsborough_Bay,_Carriacou.jpeg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hillsborough_Bay%2C_Carriacou.jpeg/1200px-Hillsborough_Bay%2C_Carriacou.jpeg" alt="Hillsborough Bay, Carriacou.jpeg"></a><br>Hillsborough Bay, Carriacou - By <a href="//commons.wikimedia.org/w/index.php?title=User:Deeferdiving&amp;action=edit&amp;redlink=1" class="new" title="User:Deeferdiving (page does not exist)">Deeferdiving</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=46108061">Link</a></p>
+
+
+<p>
+
+
+excerpt_separator: <!--more-->
+
+
+Excerpt
+<!--more-->
+
+excerpt: "In which we admonish our pathetic release like a [@geoffrey: comedy goes here.]"
+
+
+Hey now.
+
+Out-of-excerpt
+</p>
