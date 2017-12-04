@@ -1,10 +1,17 @@
 ---
+
 layout: post
+
 title: "Leutentent"
+
 date: 2017-11-27 04:04:04 -0600
+
 categories: self-awareness technology hci 
+
 excerpt: "Before our eyes, the wilderness and the wilderness of humanity recedes."
+
 note: "@geoffrey: xxxxx"
+
 ---
 
 <!-- calls to action -->
