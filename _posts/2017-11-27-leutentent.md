@@ -28,17 +28,17 @@ note: "@geoffrey: xxxxx"
 [sphere-of-influence]: http://www.answers.com/Q/What_is_a_'sphere_of_influence'
 
 <!-- images -->
-[image-dances-with-wolves]: /assets/image-dances-with-wolves-001.png "Dances With Wolves 001"
-[image-edna-no-capes]: /assets/image-edna-no-capes.jpg "Edna"
-[image-003]: /assets/image-003.jpg "Title 003"
-[image-004]: /assets/image-004.jpg "Title 004"
-[image-005]: /assets/image-005.jpg "Title 005"
-[image-006]: /assets/image-006.jpg "Title 006"
-[image-007]: /assets/image-007.jpg "Title 007"
-[image-008]: /assets/image-008.jpg "Title 008"
-[image-009]: /assets/image-009.jpg "Title 009"
-[image-010]: /assets/image-010.jpg "Title 010"
-[image-011]: /assets/image-011.jpg "Title 011"
+[image-dances-with-wolves]: https://meometer.github.io/assets/image-dances-with-wolves-001.png "Dances With Wolves 001"
+[image-edna-no-capes]: https://meometer.github.io/assets/image-edna-no-capes.jpg "Edna"
+[image-003]: https://meometer.github.io/assets/image-003.jpg "Title 003"
+[image-004]: https://meometer.github.io/assets/image-004.jpg "Title 004"
+[image-005]: https://meometer.github.io/assets/image-005.jpg "Title 005"
+[image-006]: https://meometer.github.io/assets/image-006.jpg "Title 006"
+[image-007]: https://meometer.github.io/assets/image-007.jpg "Title 007"
+[image-008]: https://meometer.github.io/assets/image-008.jpg "Title 008"
+[image-009]: https://meometer.github.io/assets/image-009.jpg "Title 009"
+[image-010]: https://meometer.github.io/assets/image-010.jpg "Title 010"
+[image-011]: https://meometer.github.io/assets/image-011.jpg "Title 011"
 
 For the last 3 months I lived without internet like a feral beast.
 
