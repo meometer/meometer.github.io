@@ -152,7 +152,7 @@ These always make us laugh:
 
 | team member | film                | tv            | comedian              |
 | ----------- | :----:              | :--:          | :---------:           |
-| Brad        | [_Animal House_][imdb-animal-house]      | {{ ? }}       | {{ ? }                |
+| Brad        | [_Animal House_][imdb-animal-house]      | {{ ? }}       | {{ ? }}          |
 | Geoffrey    | [_Blazing Saddles_][imdb-blazing-saddles]   | [_South Park_][south-park]  | [Doug Stanhope][stanhope-yelp] |
 
 
