@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Nudges
-permalink: /docs/about-nudges/
+permalink: /features/about-nudges/
 ---
 
 <!-- calls to action -->
@@ -12,10 +12,10 @@ permalink: /docs/about-nudges/
 
 <!-- local -->
 [investors]: /investors/
-[about-actions]: /docs/about-actions/
-[about-intents]: /docs/about-intents/
-[about-projects]: /docs/about-projects/
-[about-nudges]: /docs/about-nudges/
+[about-actions]: /features/about-actions/
+[about-intents]: /features/about-intents/
+[about-projects]: /features/about-projects/
+[about-nudges]: /features/about-nudges/
 
 <!-- in page -->
 <!-- [we-want]: /investors/#we-want -->
