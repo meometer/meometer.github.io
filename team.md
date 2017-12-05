@@ -1,8 +1,13 @@
 ---
+
 layout: page
+
 title: Team
+
 permalink: /team/
+
 note: "@geoffrey: Team, team, team!"
+
 ---
 
 <!-- calls to action -->
@@ -20,7 +25,7 @@ note: "@geoffrey: Team, team, team!"
 [pomodoro-tool]: https://wikipedia.com/pomodoro-tool/
 
 <!-- images -->
-[endeavor-001]: https://meometer.github.io/assets/image-endeavor-in-ice-001.jpg "Endeavor"
+[endeavor-001]: https://meometer.github.io/assets/endeavor-in-ice-001.jpg "Endeavor"
 [geoffrey]: /assets/geoffrey-2016.jpg "Geoffrey"
 [brad]: /assets/brad-2016.jpg "Brad"
 [image-004]: /assets/image-004.jpg "Title 004"
