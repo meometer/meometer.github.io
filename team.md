@@ -15,10 +15,10 @@ note: "@geoffrey: Team, team, team!"
 
 <!-- local -->
 [investors]: /investors/
-[about-actions]: /docs/about-actions/
-[about-intents]: /docs/about-intents/
-[about-projects]: /docs/about-projects/
-[about-nudges]: /docs/about-nudges/
+[about-actions]: /features/about-actions/
+[about-intents]: /features/about-intents/
+[about-projects]: /features/about-projects/
+[about-nudges]: /features/about-nudges/
 
 <!-- external -->
 [shackleton-official]: http://www.ernestshackleton.net/
@@ -26,8 +26,8 @@ note: "@geoffrey: Team, team, team!"
 
 <!-- images -->
 [endeavor-001]: https://meometer.github.io/assets/endeavor-in-ice-001.jpg "Endeavor"
-[geoffrey]: /assets/geoffrey-2016.jpg "Geoffrey"
-[brad]: /assets/brad-2016.jpg "Brad"
+[geoffrey]: https://meometer.github.io/assets/geoffrey-2016.jpg "Geoffrey"
+[brad]: https://meometer.github.io/assets/brad-2016.jpg "Brad"
 [image-004]: /assets/image-004.jpg "Title 004"
 [image-005]: /assets/image-005.jpg "Title 005"
 [image-006]: /assets/image-006.jpg "Title 006"
