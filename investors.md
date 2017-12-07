@@ -122,7 +122,7 @@ ___
 
 Geoffrey's been at project meometer for about a decade with tendrils extending back even further into the depths of time.
 
-{{ Brad's a triathlete with wins of the co-founding-to-exit flavor to the tune of $100M. }}
+@brad: Brad, a triathlete, has wins of the co-founding-to-exit flavor to the tune of $100M.
 
 Not only have Brad and Geoffrey both been friends for a decade but also co-founded another project together. While that one didn't pan out, they got to see first hand how the other handles adversity.
 
@@ -152,7 +152,7 @@ These always make us laugh:
 
 | team member | film                | tv            | comedian              |
 | ----------- | :----:              | :--:          | :---------:           |
-| Brad        | [_Animal House_][imdb-animal-house]      | {{ ? }}       | {{ ? }}          |
+| Brad        | [_Animal House_][imdb-animal-house]      | xxxxx       | xxxxx          |
 | Geoffrey    | [_Blazing Saddles_][imdb-blazing-saddles]   | [_South Park_][south-park]  | [Doug Stanhope][stanhope-yelp] |
 
 
@@ -160,7 +160,9 @@ These always make us laugh:
 
 ### Users
 
-Geoffrey has over 25,000 hours using v1. {{ Brad found a way to implement mini-good habits. }}
+Geoffrey has over 25,000 hours using v1.
+
+@brad: Brad found a way to [implement mini-good habits.]  (results?)
 
 
 

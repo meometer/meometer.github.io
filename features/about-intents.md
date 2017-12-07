@@ -45,7 +45,7 @@ permalink: /features/about-intents/
 
 Every story, every group, _every subject has its own vocabulary_.
 
-Meometer is no exception.
+meometer is no exception.
 
 When we talk about _Intents_, here's what we mean.
 
@@ -65,7 +65,7 @@ They graduate into [_Actions_][about-actions] when you complete them.
 
 ![image: mario catching mushroom][mario-mushroom]
 
-> Power yourself up by turning _Intents_ into _Actions_.
+> Power yourself up by turning your _Intents_ into _Actions_.
 
 <br />
 
@@ -77,16 +77,56 @@ They graduate into [_Actions_][about-actions] when you complete them.
 
 Let's get our heads wrapped around this with some examples.
 
+<br />
+
+---
 
 <br />
+
 ### Intents
 
-Think _Verb_ _Noun_ like these:
+They can be fun or lame, fast or slow, and a classic way to approach what to say here is with a _Verb_ _Noun_ strategy.
 
-- load dishwasher
+I will _do the thing_ (verb) to _the thing_ (noun).
+
+Fun _Intents_:
 - play guitar
-- brush the dog
-- eat dinner with Enrique and Lupe
-- draft email to Florence re: shipping costs
+- brush the cat
+- play Boggle with Enrique and Lupe
 
-They can be fun or lame, fast or slow, 
+Common _Intents_:
+- cook breakfast
+- draft email to Florence re: shipping costs
+- fold laundry
+
+Lame _Intents_ which still need to get done:
+- commute to work
+- mow the back yard
+- get the AMC Pacer an oil change
+
+Big _Intents_:
+- design and document a new feature
+- campaign for State Senate
+- defeat enemies (note: make enemies first)
+
+Little _Intents_:
+- remind Mom & Dad I'm grateful
+- do 5 pushups
+- eat a snack
+
+<br />
+
+---
+
+<br />
+
+### Don't Worry About...
+
+**...accuracy:** clean up mistakes during the 
+_Lap Review_ or even later if need be.
+
+**...xxxxx:** xxxxx
+
+**...xxxxx:** xxxxx
+
+The goal is fast, fast, fast because you need to get busy!
